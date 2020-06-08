@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/by/devincubator/banklist/SimpleServlet.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/sql/bank_setup.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/sql/insert_accounts.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/sql/insert_users.sql" dialect="GenericSQL" />
+  </component>
+</project>
