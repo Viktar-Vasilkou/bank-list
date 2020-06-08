@@ -1,2 +1,2 @@
-# bank-list
+# Bank List
 BankList application
